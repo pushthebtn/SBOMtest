@@ -1,5 +1,3 @@
-!pip install -r requirements.txt
-
 import numpy as np
 import matplotlib.pyplot as plt
 
